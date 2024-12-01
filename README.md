@@ -20,7 +20,7 @@
 - **HTML5**: For the structural foundation of the website.
 - **CSS3**: To style the components and provide an attractive design.
 - **Bootstrap**: For responsive design and pre-built components.
-- **JavaScript**: For interactivity and dynamic functionalities.
+
 
 
 ## Live Demo
